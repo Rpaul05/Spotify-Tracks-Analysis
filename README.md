@@ -82,9 +82,8 @@ Spotify_EDA_Project/
 │
 ├── Spotify_EDA.ipynb        # Main notebook with full EDA
 ├── README.md                 # Project overview
-├── assets/                   # Images / banners / plots
-│   └── spotify_banner.png
+├── assets/            
 └── requirements.txt          # List of dependencies
 
----
+
 
